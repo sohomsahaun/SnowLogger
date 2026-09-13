@@ -6,7 +6,7 @@
 
 **SnowLogger** is an IDE plugin for [GameMaker LTS](https://releases.gamemaker.io/release-notes/2026/0). It brings rich, structured logging directly into the GameMaker IDE.
 
-You can download the plugin and `.yymps` package from the [Releases](https://github.com/sohomsahaun/SnowLogger/releases) page.
+You can download the plugin and `.yymps` package from [Releases](https://github.com/sohomsahaun/SnowLogger/releases).
 
 This repository contains the SnowLogger client and demo project.
 
@@ -36,4 +36,4 @@ player_stats_logger.info("Player level increased", {
 
 ## Documentation
 
-To learn more about SnowLogger, visit the [documentation](#).
+To learn more about SnowLogger, visit the [documentation](https://github.com/sohomsahaun/SnowLogger/wiki).
