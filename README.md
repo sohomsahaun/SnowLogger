@@ -16,6 +16,7 @@ This repository contains the SnowLogger client and demo project.
 - Case-sensitive, whole-word, and regular-expression search
 - Filtering by severity level
 - Follow and pause controls for live logs
+- Copy individual logs as JSON
 
 ## Quick example
 
