@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"__SnowLogger_Config",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"__SnowLogger_Config",
+  "parent":{
+    "name":"SnowLogger",
+    "path":"folders/SnowLogger.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

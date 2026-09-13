@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scrInit",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scrInit",
+  "parent":{
+    "name":"SnowLogger",
+    "path":"SnowLogger.yyp",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

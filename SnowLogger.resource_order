@@ -1,0 +1,10 @@
+{
+  "FolderOrderSettings":[],
+  "ResourceOrderSettings":[
+    {"name":"oDemo","order":2,"path":"objects/oDemo/oDemo.yy",},
+    {"name":"oSnowLogger","order":1,"path":"objects/oSnowLogger/oSnowLogger.yy",},
+    {"name":"rDemo","order":1,"path":"rooms/rDemo/rDemo.yy",},
+    {"name":"scrInit","order":3,"path":"scripts/scrInit/scrInit.yy",},
+    {"name":"SnowLogger","order":2,"path":"scripts/SnowLogger/SnowLogger.yy",},
+  ],
+}
